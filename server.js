@@ -9,7 +9,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Jojo e Romumu do DevOps!');
+  res.send('Jojo gaymer e Romumu ruindade pura do DevOps!');
 });
 
 app.get('*', (req, res) => {
